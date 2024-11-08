@@ -1,6 +1,6 @@
 repeat Wait(5) until Config ~= nil
 
--- TODO: ROBBERY SYSTEM, LOGGING
+-- TODO: LOGGING
 
 local Utils = require('client.utils.utils')
 local context = require('client.utils.context')
